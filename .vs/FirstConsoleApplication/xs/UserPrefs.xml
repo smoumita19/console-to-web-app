@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DF98CBE0-D626-4A4E-B456-63CC7519DC1D}|FirstConsoleApplication">
+  <MonoDevelop.Ide.ItemProperties.FirstConsoleApplication PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstConsoleApplication/Startup.cs">
+    <Files>
+      <File FileName="FirstConsoleApplication/Program.cs" Line="9" Column="13" />
+      <File FileName="FirstConsoleApplication/FirstConsoleApplication.csproj" Line="4" Column="1" />
+      <File FileName="FirstConsoleApplication/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstConsoleApplication" expanded="True">
+            <Node name="FirstConsoleApplication" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
