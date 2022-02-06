@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/moumitasen/Projects/FirstConsoleApplication/FirstConsoleApplication/FirstConsoleApplication.csproj": {}
+    "/Users/moumitasen/Projects-2022/FirstConsoleApplication/FirstConsoleApplication/FirstConsoleApplication.csproj": {}
   },
   "projects": {
-    "/Users/moumitasen/Projects/FirstConsoleApplication/FirstConsoleApplication/FirstConsoleApplication.csproj": {
+    "/Users/moumitasen/Projects-2022/FirstConsoleApplication/FirstConsoleApplication/FirstConsoleApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/moumitasen/Projects/FirstConsoleApplication/FirstConsoleApplication/FirstConsoleApplication.csproj",
+        "projectUniqueName": "/Users/moumitasen/Projects-2022/FirstConsoleApplication/FirstConsoleApplication/FirstConsoleApplication.csproj",
         "projectName": "FirstConsoleApplication",
-        "projectPath": "/Users/moumitasen/Projects/FirstConsoleApplication/FirstConsoleApplication/FirstConsoleApplication.csproj",
+        "projectPath": "/Users/moumitasen/Projects-2022/FirstConsoleApplication/FirstConsoleApplication/FirstConsoleApplication.csproj",
         "packagesPath": "/Users/moumitasen/.nuget/packages/",
-        "outputPath": "/Users/moumitasen/Projects/FirstConsoleApplication/FirstConsoleApplication/obj/",
+        "outputPath": "/Users/moumitasen/Projects-2022/FirstConsoleApplication/FirstConsoleApplication/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/moumitasen/.config/NuGet/NuGet.Config"
