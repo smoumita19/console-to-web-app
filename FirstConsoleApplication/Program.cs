@@ -6,6 +6,7 @@ namespace FirstConsoleApplication
     {
         static void Main(string[] args)
         {
+            //Will print in the console
             Console.WriteLine("Hello World!");
         }
     }
