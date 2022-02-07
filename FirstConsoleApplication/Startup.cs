@@ -7,7 +7,7 @@ namespace FirstConsoleApplication
 {
     public class Startup
     {
-        public void ConfigurationServices()
+        public void ConfigurationServices(IApplicationBuilder app, IWebHostEnvironment env)
         {
             
         }
