@@ -1,4 +1,3 @@
-# console-to-web-app
 <b>Objective :</b> To convert a C# Console Project(asp.net core)to Web Application.
 
 <pre>
